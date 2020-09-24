@@ -1,2 +1,2 @@
-# DinoEater-Monogame
+# DinoEater, made in Monogame
  
