@@ -1,0 +1,78 @@
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\Old RuneScape Soundtrack Jungle Troubles.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\YoshiLick.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoGameBackground.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - doux.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - mort.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - tard.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - vita.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\ArialLarge.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\DinoEater.exe.manifest
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\DinoEater.application
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\DinoEater.exe
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\DinoEater.pdb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.csprojAssemblyReference.cache
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.exe.manifest
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.application
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.csproj.CopyComplete
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.exe
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\DinoEater.pdb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Sounds\Old RuneScape Soundtrack Jungle Troubles.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Sounds\YoshiLick.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\DinoGameBackground.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\DinoSprites - doux.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\DinoSprites - mort.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\DinoSprites - tard.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Images\DinoSprites - vita.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\Content\Fonts\ArialLarge.xnb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\DinoEater.exe.manifest
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\DinoEater.application
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\DinoEater.exe
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\DinoEater.pdb
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.csprojAssemblyReference.cache
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.exe.manifest
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.application
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.csproj.CopyComplete
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.exe
+C:\Users\Kimera\OneDrive - Conestoga College\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\DinoEater\obj\x86\Debug\DinoEater.pdb

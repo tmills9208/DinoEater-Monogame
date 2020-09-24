@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Images/DinoSprites - doux.png</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Images/DinoSprites - mort.png</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Images/DinoSprites - tard.png</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Images/DinoSprites - vita.png</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Images/DinoGameBackground.png</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Fonts/Arial.spritefont</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Fonts/ArialLarge.spritefont</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Sounds/Old RuneScape Soundtrack Jungle Troubles.wav</File>
+    <File>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Sounds/YoshiLick.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

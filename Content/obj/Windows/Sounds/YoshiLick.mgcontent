@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/Sounds/YoshiLick.wav</SourceFile>
+  <SourceTime>2019-12-08T23:24:50-05:00</SourceTime>
+  <DestFile>C:/Users/Kimera/OneDrive - Conestoga College/ITID/Year 2 Term 1/Game Programming/Assignments/TylerMFinalProject/Source Code/FinalProject/Content/bin/Windows/Sounds/YoshiLick.xnb</DestFile>
+  <DestTime>2020-07-09T15:51:06.1002245-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

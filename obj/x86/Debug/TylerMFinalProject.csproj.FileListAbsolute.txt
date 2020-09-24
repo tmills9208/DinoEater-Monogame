@@ -1,0 +1,117 @@
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - doux.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - mort.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - tard.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - vita.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\TylerMFinalProject.csprojAssemblyReference.cache
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CopyComplete
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoGameBackground.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Fonts\ArialLarge.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Sounds\Old RuneScape Soundtrack Jungle Troubles.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\Content\Sounds\YoshiLick.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\FinalProject.exe.manifest
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\bin\Windows\x86\Debug\FinalProject.application
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\FinalProject.exe.manifest
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\FinalProject\obj\x86\Debug\FinalProject.application
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\Old RuneScape Soundtrack Jungle Troubles.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\YoshiLick.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoGameBackground.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - doux.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - mort.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - tard.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - vita.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\ArialLarge.xnb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.exe.manifest
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.application
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csprojAssemblyReference.cache
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.exe.manifest
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.application
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CopyComplete
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\aafte\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\Old RuneScape Soundtrack Jungle Troubles.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Sounds\YoshiLick.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\Bullet.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoGameBackground.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - doux.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - mort.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - tard.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Images\DinoSprites - vita.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\Content\Fonts\ArialLarge.xnb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.exe.manifest
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.application
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.exe
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\FinalProject.pdb
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csprojAssemblyReference.cache
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.exe.manifest
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.application
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\TylerMFinalProject.csproj.CopyComplete
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\Kimera\OneDrive\ITID\Year 2 Term 1\Game Programming\Assignments\TylerMFinalProject\Source Code\FinalProject\obj\x86\Debug\FinalProject.pdb
